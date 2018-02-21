@@ -1,9 +1,9 @@
 ### Bachelor Winter Games
 
-* If you haven't been watching the Bachelor Winter Games, you're missing out. It's been fire. 
+* If you haven't been watching the Bachelor Winter Games, you're missing out. It's been fire.
 * So for our warmup, write a function called `countEm` that takes in a blog (as a string) and a word (also a string). The function should split the blog into words, and loop through it and return how many times the given word appears in the paragraph.
-* When testing your function, try to see how many times these words appear: 
-  * love 
+* When testing your function, try to see how many times these words appear:
+  * love
   * Yuki
   * jacuzzi
   * kissing
@@ -13,9 +13,7 @@
 ```
 "Aaaand we’re back with another installment of The Bachelor Winter Games, where hot people who were crazy enough to go on The Bachelor from arounbcvd the globe finally get another chance at being on TV love. The drama was high this week, which makes sense. I’m always a huge bitch when I’m cold.
 
-
-
-The Challenge: Speed Skating 
+The Challenge: Speed Skating
 We kick off the ep with an announcement from Yuki, who still does not speak English but does appear to be learning certain key phrases.
 
 Yuki: I get date card please!
@@ -54,7 +52,7 @@ The Bachelor Winter Games
 
 All the men also rush to tell everyone that it is very cold and there has been “shrinkage” so that the TV audience doesn’t think their dicks are small. This makes me think their dicks are very small.
 
-Josiah, once again, has to save Ally from her complete lack of athletic ability. 
+Josiah, once again, has to save Ally from her complete lack of athletic ability.
 
 Josiah: I’d better get a piece of dat ass considering how much I’ve had to save it.
 
