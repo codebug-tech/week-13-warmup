@@ -2,11 +2,16 @@
 
 * If you haven't been watching the Bachelor Winter Games, you're missing out. It's been fire. 
 * So for our warmup, write a function called `countEm` that takes in a blog (as a string) and a word (also a string). The function should split the blog into words, and loop through it and return how many times the given word appears in the paragraph.
+* When testing your function, try to see how many times these words appear: 
+  * love 
+  * Yuki
+  * jacuzzi
+  * kissing
 
 
-* Bachelor Winter Games Recap Below
+* Bachelor Winter Games Week 1 Recap Below
 ```
-"Aaaand we’re back with another installment of The Bachelor Winter Games, where hot people who were crazy enough to go on The Bachelor from around the globe finally get another chance at being on TV love. The drama was high this week, which makes sense. I’m always a huge bitch when I’m cold.
+"Aaaand we’re back with another installment of The Bachelor Winter Games, where hot people who were crazy enough to go on The Bachelor from arounbcvd the globe finally get another chance at being on TV love. The drama was high this week, which makes sense. I’m always a huge bitch when I’m cold.
 
 
 
